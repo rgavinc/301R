@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\.android\build-cache\ecf0eeacce0485e61f10e2eefdc1ff62abe41086\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\classes_fd6ce16aa8515d9d0f55c650b25f8ba460f81b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\.android\build-cache\3e557b3a0e2ecb77621bc2f923991533a5e9943b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\classes_56e7b22aa8c9b4d2d5727323ab5a27f27f155df9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\.android\build-cache\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\classes_d34660b314e155d37925703a149c5e1ccc464651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ff5fbe9628a4cda87c9ff82fb4d9ebeaed59ebb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\.android\build-cache\04ff53b113dc12c29dea6e41d71c96b2b4b305ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\classes_98dc037ce492333fe5a697d92026bed19ebd4601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\.android\build-cache\93fbe78ffcef40386d0b2d7efe67741555f026e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\classes_e8ea0e58356735fb4a20c9d0002bd830eb020f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\.android\build-cache\5809fecf6ecf57ebe43876712f8944b55db2fa94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\classes_f87100262dc6d27632768bb4b26810de7ca96d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\.android\build-cache\8a530eca2bea61c846d6701457ddaeba38a77e66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\classes_aeded7896cdc4f48fc4506c1f18502f0cf23b0e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\.android\build-cache\4121ca287b390af60723c6f8b57b4688c8c6b828\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\classes_931f6243d8d7228827ef9bdde06f3ecfe2619059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\.android\build-cache\a8fb3d2c353bdfbc21e6b2091bbf52d284eda863\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\classes_735e0cddf94d097573446c55ef478f6431283bec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\.android\build-cache\b8b0a9c4578ffe8ed2e6ce0bf24c9ccef9c12fb3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\classes_e4a901e00a197105b9b2de9710207bb7538a7f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gavin\.android\build-cache\0a18378d632fb18eef6a1563999b6230ed373d07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\gavin\AndroidStudioProjects\ElectYourElectives\Application\build\intermediates\pre-dexed\debug\classes_73b5641d8219352d9bb0cfa8227c17087ba716ff.jar" />
+    </item>
+
+</items>
