@@ -1,10 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zacharyshorts/.android/build-cache/b5a49c3542fc37394aa9c70b45af1fc73e68ac8b/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zacharyshorts/.android/build-cache/b5a49c3542fc37394aa9c70b45af1fc73e68ac8b/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

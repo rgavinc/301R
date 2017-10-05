@@ -1,26 +1,50 @@
 [
     {
-        "merged": "C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/zacharyshorts/.android/build-cache/b5a49c3542fc37394aa9c70b45af1fc73e68ac8b/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/zacharyshorts/.android/build-cache/b5a49c3542fc37394aa9c70b45af1fc73e68ac8b/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/zacharyshorts/.android/build-cache/b5a49c3542fc37394aa9c70b45af1fc73e68ac8b/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/zacharyshorts/.android/build-cache/b5a49c3542fc37394aa9c70b45af1fc73e68ac8b/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\.android\\build-cache\\9aa4de058e9dc37e1374f81e2d8c1cf32eabe432\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/zacharyshorts/.android/build-cache/b5a49c3542fc37394aa9c70b45af1fc73e68ac8b/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/zacharyshorts/.android/build-cache/b5a49c3542fc37394aa9c70b45af1fc73e68ac8b/output/res/layout-v11/notification_media_action.xml"
     }
 ]
