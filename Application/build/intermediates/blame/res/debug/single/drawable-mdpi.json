@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
-        "source": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\zacharyshorts\\Documents\\School\\ComputerScience\\CS301\\CS301R\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\zacharyshorts\\Documents\\School\\ComputerScience\\CS301\\CS301R\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "/Users/zacharyshorts/Documents/School/ComputerScience/CS301/CS301R/C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\zacharyshorts\\Documents\\School\\ComputerScience\\CS301\\CS301R\\C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\zacharyshorts\\Documents\\School\\ComputerScience\\CS301\\CS301R\\C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\gavin\\AndroidStudioProjects\\ElectYourElectives\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]
